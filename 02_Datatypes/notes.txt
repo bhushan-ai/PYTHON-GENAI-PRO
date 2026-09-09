@@ -1,0 +1,19 @@
+1. Object
+>Everything in python is Object
+>Every Object has unique Identity id
+>Every Object has type
+>Every Object has Value 
+
+Mutable and Immutable
+>mutable: is changeable
+>Immutable: is not changeable
+> Identify by Identity whether it is changeable or not
+
+> Numbers are immutable we can not change them reference in memory can be change but always  remain same
+> Set are mutable we can change it memory always points to the same thing
+
+
+Datatype 
+1. Numbers : Integers, Boolean, Real float -> decimal , Complex Number 2+3j
+2. String : Core, Indexing, Slicing, encode and decode
+3. Tuples & Membership: (), in
