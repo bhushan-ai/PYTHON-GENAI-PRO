@@ -17,3 +17,7 @@ Datatype
 1. Numbers : Integers, Boolean, Real float -> decimal , Complex Number 2+3j
 2. String : Core, Indexing, Slicing, encode and decode
 3. Tuples & Membership: (), in
+
+
+Mutable datatype 
+1. List
