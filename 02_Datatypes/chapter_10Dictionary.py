@@ -1,3 +1,5 @@
+# Dictionary: a built-in data type used to store data in key-value pairs.
+
 # Create dictionary
 chai_order = dict(type = "Masala tea", size = "Medium", sugar = 2)
 print(f"Chai order: {chai_order}")

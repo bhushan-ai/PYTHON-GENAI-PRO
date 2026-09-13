@@ -1,3 +1,5 @@
+# Set: used to store an unordered collection of unique items
+
 # Set declares using {}
 essential_spices = {"cardamom", "ginger" , "Cinnamon"}
 optional_spices = {"cloves", "ginger", "black pepper"}

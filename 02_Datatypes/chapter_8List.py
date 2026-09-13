@@ -1,3 +1,6 @@
+# List: a built-in, mutable sequence data type used to store collections
+# of items in a single variable
+
 # Append()
 ingredients = ["water", "milk", "black tea"]
 ingredients.append('sugar')
