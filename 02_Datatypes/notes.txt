@@ -20,5 +20,8 @@ Datatype
 
 
 Mutable datatype 
-1. List: []
-2. Set: {}
+1. List: [], methods: append(), remove(), extend(), insert(using index), pop(), reverse(), sort(), min()
+2. Set: {}, union : |, intersection: &, 
+3. Dictionary: Using dict(key=value), variable = {}, and variable = {key: value}
+ del: to delete key value pair using key
+ methods: keys(), values(), items()
