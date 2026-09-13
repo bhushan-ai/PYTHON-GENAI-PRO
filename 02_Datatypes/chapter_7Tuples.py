@@ -1,4 +1,4 @@
-# Tuple
+# Tuple: ordered, immutable (unchangeable), and indexed sequence that allows duplicate values
 masala_spices = ("cardamom", "cloves", "cinnamon")
 
 (spice1, spice2, spice3) = masala_spices
