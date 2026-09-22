@@ -1,4 +1,11 @@
-# comes with yeild
+# comes with yield
+# yield: pause and resume the execution of fuction, converting it into generators
+# next(): mannualy getting next value which generator getting for yield
+# send(): send data into generator
+# yield from: getting from another generator or delegate subgenator or iterable any task
+# close(): to stop generator gracefully
+
+#Generator
 # u save memory 
 # u dont want result immidietely
 # lazy evaluation
