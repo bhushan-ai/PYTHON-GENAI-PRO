@@ -23,4 +23,4 @@ def chai_stall():
 
 stall = chai_stall()
 print(next(stall))
-stall.close()
+stall.close()#cleanup
