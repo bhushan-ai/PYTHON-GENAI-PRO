@@ -1,0 +1,13 @@
+*concurrency: doing multiple task at once
+
+core is one in threading
+Modules
+1. threading.Thread: 
+2. asyncio
+
+*parallelism: simply meance running multiple task at the exact same time
+multiple core
+
+Modules
+1. multiprocessing.Process
+2. concurrent.future.ProcessPollExecuter
