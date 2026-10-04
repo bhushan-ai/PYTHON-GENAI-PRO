@@ -7,6 +7,7 @@ Virtual Environment of python is created using the command
 > first go to the directory in which u want create virtual env 
 > python -m venv environment_name (example .venv) 
 > Command for activation of venv: .\venv\Scripts\Activate
+> pip install --upgrade pip
 
 *** Install Third Party Modules in venv
 >command: pip install <package name> (ex. pip install flask)

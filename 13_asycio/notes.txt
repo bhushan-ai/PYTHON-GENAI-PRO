@@ -1,0 +1,4 @@
+async def: Declare a coroutine (Special func that can be paused)
+await: Pauses execution until the result is ready
+asyncio: build in python library
+event loop: The engine that runs and schedule co-routines in python
