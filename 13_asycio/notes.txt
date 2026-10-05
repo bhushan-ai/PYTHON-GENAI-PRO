@@ -2,3 +2,9 @@ async def: Declare a coroutine (Special func that can be paused)
 await: Pauses execution until the result is ready
 asyncio: build in python library
 event loop: The engine that runs and schedule co-routines in python
+
+blocking and non-blocking
+Blocking : time.time(3)
+non-blocking: await asyncio.sleep(2)
+
+# daemon: daemon threads are background threads that automatically shut down when the main program exit
