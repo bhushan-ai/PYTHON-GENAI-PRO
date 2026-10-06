@@ -8,3 +8,9 @@ Blocking : time.time(3)
 non-blocking: await asyncio.sleep(2)
 
 # daemon: daemon threads are background threads that automatically shut down when the main program exit
+
+# profiling: tells u what happened what time it happened
+tools: for sampline profiler for python program
+1. py-spy
+2. vprof
+3. thread scope
