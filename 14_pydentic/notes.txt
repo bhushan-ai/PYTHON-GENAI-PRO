@@ -1,0 +1,9 @@
+pydentic: Its a library that usefull for data validation and setting management
+
+1. Data validation:
+# Data parsing and validation
+# Api development
+# Config management
+# Data Serilization/ Deserilization
+
+2. Setting Management
