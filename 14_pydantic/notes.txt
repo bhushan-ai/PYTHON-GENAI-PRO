@@ -1,0 +1,22 @@
+pydentic: Its a library that usefull for data validation and setting management
+
+1. Data validation:
+# Data parsing and validation
+# Api development
+# Config management
+# Data Serilization/ Deserilization
+
+2. Setting Management
+
+
+
+
+import BaseModel
+then give Type anotation
+model initiation (Always unpack dict)
+Automatic validation
+
+
+pydantic gives u someo of the model
+and typing gives u some of types 
+to use datatype use both 
